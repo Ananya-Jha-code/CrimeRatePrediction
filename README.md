@@ -18,6 +18,10 @@ We have used the [Indore Police dataset](https://www.kaggle.com/yashraut/indore-
 <img src="gif/ezgif.com-gif-maker (1).gif" width="800">
 <img src="gif/ezgif.com-gif-maker (2).gif" width="800">
 
+
+## [PRESENTATION](https://docs.google.com/presentation/d/1mkFKY18Eb0cA0Wn-eI4mkBk9JBKBRATL/edit#slide=id.p1)
+
+
 ## Installation and Quick Start
 To use the repo and run inferences, please follow the guidelines below:
 
