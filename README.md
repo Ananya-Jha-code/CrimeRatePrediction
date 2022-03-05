@@ -14,9 +14,9 @@ One of the ways to solve the above mentioned problem is to keep a check on the c
 We have used the [Indore Police dataset](https://www.kaggle.com/yashraut/indore-police-crime-dataset) from [kaggle.com](https://www.kaggle.com) which is a dataset including 6 types of crimes , timestamps and latitude and longitude to locate places. The dataset consists of 2096 entries.
 
 ## Demo
-<img src="gif/gif.ezgif.com-gif-maker.gif" width="800">
-<img src="gif/gif.ezgif.com-gif-maker (1).gif" width="800">
-<img src="gif/gif.ezgif.com-gif-maker (2).gif" width="800">
+<img src="gif/ezgif.com-gif-maker.gif" width="800">
+<img src="gif/ezgif.com-gif-maker (1).gif" width="800">
+<img src="gif/ezgif.com-gif-maker (2).gif" width="800">
 
 ## Installation and Quick Start
 To use the repo and run inferences, please follow the guidelines below:
@@ -46,7 +46,7 @@ To use the repo and run inferences, please follow the guidelines below:
 
 ## Contribution Guidelines
 We are always open to any ideas about how to improve the project, or add features, or discuss anything about it! Feel free to reach out to any of the contributors listed below.
-For exact guidelines on how to contribute, check out this [document](https://github.com/Ananya-Jha-code/CrimeRatePred/blob/main/contributing.md).
+For exact guidelines on how to contribute, check out this [document](https://github.com/Ananya-Jha-code/CrimeRatePrediction/blob/main/contributing.md).
 
 ## Contributors 
 - [Ananya Jha](https://github.com/Ananya-Jha-code)
