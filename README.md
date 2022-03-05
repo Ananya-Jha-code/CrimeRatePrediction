@@ -33,9 +33,9 @@ To use the repo and run inferences, please follow the guidelines below:
 
         $ pip install -r requirements.txt
 
-- For running on CLI, use the inference file as follows:
+- For running on CLI:
 
-        $ python inference.py
+        $ python app.py
         
 
 ## To-do
